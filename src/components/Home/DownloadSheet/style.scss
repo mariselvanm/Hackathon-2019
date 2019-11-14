@@ -1,0 +1,11 @@
+.download-container {
+    .show {
+        height: auto;
+        opacity: 1;
+    }
+
+    .hide {
+        height: 0;
+        opacity: 0;
+    }
+}
